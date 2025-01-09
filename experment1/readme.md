@@ -6,5 +6,5 @@ operating system lab
 
 ##general command outputs
 
-![year command output] (yaer.png)
+![year command output] (year.png)
 
