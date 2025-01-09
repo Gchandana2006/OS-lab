@@ -6,3 +6,5 @@ operating system lab
 
 ##general command outputs
 
+![echohome command output] (echohome.png)
+
