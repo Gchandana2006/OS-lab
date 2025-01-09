@@ -25,6 +25,8 @@ operating system lab
 ![echotxt command output](echotxt.png)
 ### hour command output
 ![hour command output](hour.png)
+### username command output
+![username command output](username.png)
 
 
 
