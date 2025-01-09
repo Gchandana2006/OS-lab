@@ -6,5 +6,5 @@ operating system lab
 
 ##general command outputs
 
-![echohome command output] (echohome.png)
+![year command output] (yaer.png)
 
