@@ -13,7 +13,7 @@ operating system lab
 ### dateonly command output
 ![dateonly command output](dateonly.png)
 ### displayconte command output
-![displayconte command output](diaplayconte.png)
+![displayconte command output](displayconte.png)
 
 
 
