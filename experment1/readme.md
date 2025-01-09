@@ -6,6 +6,7 @@ operating system lab
 
 ##general command outputs
 
-### year command output
-![year command output] (year.png)
+### date command output
+![date command output] (date.png)
+![manual command manual] (manual.png)
 
