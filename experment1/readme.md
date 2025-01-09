@@ -8,5 +8,6 @@ operating system lab
 
 ### date command output
 ![date command output] (date.png)
+
 ![manual command manual] (manual.png)
 
