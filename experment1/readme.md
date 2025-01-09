@@ -1,1 +1,1 @@
-#practing basic unix commands
+practing basic unix commands
