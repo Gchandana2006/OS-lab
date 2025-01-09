@@ -10,6 +10,9 @@ operating system lab
 ### cal command output
 ![cal command output](cal.png)
 ![manual command manual](manulcal.png)
+### dateonly command output
+![dateonly command output](dateonly.png)
+
 
 
 
