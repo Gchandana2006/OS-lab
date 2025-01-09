@@ -12,6 +12,8 @@ operating system lab
 ![manual command manual](manulcal.png)
 ### dateonly command output
 ![dateonly command output](dateonly.png)
+### displayconte command output
+![displayconte command output](diaplayconte.png)
 
 
 
