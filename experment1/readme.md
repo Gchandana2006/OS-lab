@@ -7,6 +7,8 @@ operating system lab
 ![manual command manual](manualdate.png)
 ### year command output
 ![year command output](year.png)
+### cal command output
+![cal command output](cal.png)
 
 
 
