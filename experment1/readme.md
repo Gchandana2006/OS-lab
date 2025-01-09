@@ -6,5 +6,6 @@ operating system lab
 
 ##general command outputs
 
-<img src="C:\Users\LocalAdmin\OneDrive\Pictures\year.png">
+### year command output
+![year command output] (year.png)
 
