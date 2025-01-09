@@ -15,7 +15,6 @@ operating system lab
 ### displayconte command output
 ![displayconte command output](displayconte.png)
 ### appenddat command output
-
 ![appenddat command output](appenddat.png)
 ### cotentinfile command output
 ![cotentinfile command output](cotentinfile.png)
