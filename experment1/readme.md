@@ -14,7 +14,7 @@ operating system lab
 ![dateonly command output](dateonly.png)
 ### displayconte command output
 ![displayconte command output](displayconte.png)
-###appenddat command output
+### appenddat command output
 
 ![appenddat command output](appenddat.png)
 ### cotentinfile command output
