@@ -17,6 +17,8 @@ operating system lab
 ###appenddat command output
 
 ![appenddat command output](appenddat.png)
+### cotentinfile command output
+![cotentinfile command output](cotentinfile.png)
 
 
 
