@@ -5,5 +5,7 @@ operating system lab
 ### date command output
 ![date command output](date.png)
 ![manual command manual](manualdate.png)
-
+### year command output
+![year command output](year.png)
+![manual command manual](
 
