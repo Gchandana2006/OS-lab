@@ -23,6 +23,8 @@ operating system lab
 ![echohome command output](echohome.png)
 ### echotxt command output
 ![echotxt command output](echotxt.png)
+### hour command output
+![hour command output](hour.png)
 
 
 
