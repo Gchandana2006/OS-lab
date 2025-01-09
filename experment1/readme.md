@@ -21,6 +21,8 @@ operating system lab
 ![cotentinfile command output](cotentinfile.png)
 ### echohome command output
 ![echohome command output](echohome.png)
+### echotxt command output
+![echotxt command output](echotxt.png)
 
 
 
