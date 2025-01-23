@@ -83,4 +83,10 @@ return EXIT_SUCCESS;
 ```
 ###1b command output
 ![1b command output](exp1b1.png)
+![1b command output](exp1b2.png)
+![1b command output](exp1b3.png)
+![1b command output](exp1b4.png)
+![1b command output](exp1b5.png)
+![1b command output](exp1b6.png)
+
 
