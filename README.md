@@ -81,3 +81,6 @@ simulate_grep(argv[1], argv[2]);
 return EXIT_SUCCESS;
 }
 ```
+###1b command output
+![1b command output](exp1b1.png)
+
