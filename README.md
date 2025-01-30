@@ -195,6 +195,5 @@ int main() {
         exit(0);
     }
 }
-![screenshot](ex2.png)
-
+![ screen Shot](ex2.png)
 
