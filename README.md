@@ -195,3 +195,6 @@ int main() {
         exit(0);
     }
 }
+###2 command output
+![2 command output](2(1).png)
+![2 command output](2(2).png)
