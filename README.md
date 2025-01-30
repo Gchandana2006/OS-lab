@@ -197,4 +197,5 @@ int main() {
 }
 ```
 ![ screen Shot](ex2.png)
+![screenshot](2(2).png)
 
