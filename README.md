@@ -187,7 +187,7 @@ int main() {
             perror("open failed");
             exit(1);
         }
-        ###2 command output
+        ### 2 command output
 ![2 command output](2(1).png)
 ![2 command output](2(2).png)
         write(fd, "Hello, this is a test file!\n", 26);
