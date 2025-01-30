@@ -195,7 +195,6 @@ int main() {
         exit(0);
     }
 }
-### exp2 command output
-![exp2 command output](2(1).png)
-![exp2 command output](2(2).png)
+![screenshot](2(1).png)
+
 
