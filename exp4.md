@@ -116,5 +116,5 @@ int main() {
 }
 ```
 ###exp4 command output
+![exp4 command output](exp4.png)
 ![exp4 command output](exp4(1).png)
-![exp4 command output](exp4(2).png)
