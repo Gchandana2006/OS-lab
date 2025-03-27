@@ -132,9 +132,9 @@ chmod 740 file
 sets all rights for user, read only for groups and no rights for others
 ```
 
-![screenshot](b3.png)
-![screenshot](b4.png)
-![screenshot](b5.png)
+![screenshot](hour.png)
+![screenshot](makedir.png)
+![screenshot](path.png)
 
 > ## RESULT
 Thus the study and execution of Unix commands has been completed successfully.
