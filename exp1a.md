@@ -135,6 +135,10 @@ sets all rights for user, read only for groups and no rights for others
 ![screenshot](hour.png)
 ![screenshot](makedir.png)
 ![screenshot](path.png)
+![screenshot](manualdate.png)
+![screenshot](removedir.png)
+![screenshot](renamefile.png)
+![screenshot](year.png)
 
 > ## RESULT
 Thus the study and execution of Unix commands has been completed successfully.
