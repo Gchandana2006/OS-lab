@@ -32,7 +32,7 @@ return EXIT_SUCCESS;
 }
 ```
 
-![screenshot](1.png)
+
 
 > ## Simulation code for ls command
 
@@ -61,7 +61,7 @@ return 0;
 }
 ```
 
-![screenshot](2.png)
+
 
 > ## Simulate Grep command
 
@@ -92,4 +92,8 @@ return EXIT_SUCCESS;
 }
 ```
 
-![screenshot](3.png)
+![screenshot](exp1b.png)
+![screenshot](exp1b(2).png)
+![screenshot](exp1b(3).png)
+![screenshot](exp1b(4).png)
+![screenshot](exp1b(5).png)
