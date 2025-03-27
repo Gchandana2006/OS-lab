@@ -35,10 +35,9 @@ int main() {
     sem_destroy(&port_semaphore);
     return 0;
 }
-```
 
 > ## Source Code for Monitors
-```
+
 #include <stdio.h>
 #include <pthread.h>
 #include <unistd.h>  // For sleep()
