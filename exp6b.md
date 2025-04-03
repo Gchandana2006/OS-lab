@@ -1,7 +1,7 @@
-> ##Write a program to solve producer-consumer problem using Semaphores.
+> ## Write a program to solve producer-consumer problem using Semaphores.
 >
 > 
-> ##Source Code for Semphore intialization
+> ## Source Code for Semphore intialization
  ```c
 #include <stdio.h>
 #include <stdlib.h>
@@ -20,7 +20,7 @@ int main() {
     return 0;
 }
 ```
-> ##Source Code for Consumer:
+> ## Source Code for Consumer:
  ```c
 /* Consumer Program (consumer.c) */
 #include <stdio.h>
@@ -69,7 +69,7 @@ int main() {
     return 0;
 }
 ```
->##Source Code for Producer
+> ## Source Code for Producer
 ```c
 /* Producer Program (producer.c) */
 #include <stdio.h>
